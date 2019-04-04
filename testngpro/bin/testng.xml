@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="word" value="kalam"/>
+    <classes>
+      <class name="testngpack.Test64"/>
+      <class name="testngpack.Test65"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
